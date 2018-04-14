@@ -1,7 +1,6 @@
 # Machine-Learning-Algorithms
-=
     Python实现经典分类回归、关联分析、聚类以及推荐算法等
-    -
+    
     本项目是本人的练习项目。
     
     分类回归算法包括：决策树、CART回归、线性回归、K近邻、逻辑斯谛回归、SoftMax、最大熵、朴素贝叶斯、感知机、支持向量机、Adaboost、提升树以及随机森林
